@@ -3,19 +3,19 @@ export const homeAbout = [
     id: 1,
     cover: "https://img.icons8.com/dotty/80/000000/storytelling.png",
     title: "Online Courses",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Tech gives the quietest student a voice.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/diploma.png",
     title: "Earn A Certificates",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Tech gives the quietest student a voice.",
   },
   {
     id: 1,
     cover: "https://img.icons8.com/ios/80/000000/athlete.png",
     title: "Learn with Expert",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Tech gives the quietest student a voice.",
   },
 ]
 export const awrapper = [
@@ -49,12 +49,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by John Smith",
-        totalTime: "50 lectures (190 hrs)",
+        name: "by Joy",
+        totalTime: "50 lectures (75 hrs)",
       },
     ],
-    priceAll: "$100 All Course",
-    pricePer: "$15 per month",
+    priceAll: " ₹1000 All Course",
+    pricePer: "₹250 per month",
   },
   {
     id: 2,
@@ -63,12 +63,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Ram Gurung",
-        totalTime: "30 lectures (125 hrs)",
+        name: "by Rakesh",
+        totalTime: "30 lectures (45 hrs)",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$25 per month",
+    priceAll: "₹1000 All Course",
+    pricePer: "₹250 per month",
   },
   {
     id: 3,
@@ -77,12 +77,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Saroj Nepal",
+        name: "by Suyasha",
         totalTime: "50 lectures (50 hrs)",
       },
     ],
-    priceAll: "$50 All Course",
-    pricePer: "$5 per month",
+    priceAll: "₹1500 All Course",
+    pricePer: "₹300 per month",
   },
   {
     id: 4,
@@ -91,12 +91,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Prabin Thapa Mager",
+        name: "by Prdeep",
         totalTime: "20 lectures (20 hrs)",
       },
     ],
-    priceAll: "$30 All Course",
-    pricePer: "$3 per month",
+    priceAll: "₹1200 All Course",
+    pricePer: "₹400 per month",
   },
   {
     id: 5,
@@ -105,12 +105,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "100 lectures (150 hrs)",
+        name: "by Ravi",
+        totalTime: "10 lectures (15 hrs)",
       },
     ],
-    priceAll: "$300 All Course",
-    pricePer: "$30 per month",
+    priceAll: "₹1500 All Course",
+    pricePer: "₹300 per month",
   },
   {
     id: 6,
@@ -119,12 +119,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Sunil Bishowkaram",
-        totalTime: "200 lectures (300 hrs)",
+        name: "by Sunil ",
+        totalTime: "20 lectures (30 hrs)",
       },
     ],
-    priceAll: "$500 All Course",
-    pricePer: "$80 per month",
+    priceAll: "₹750 All Course",
+    pricePer: "₹150 per month",
   },
   {
     id: 7,
@@ -134,11 +134,11 @@ export const coursesCard = [
       {
         dcover: "./images/back.webp",
         name: "by Price",
-        totalTime: "20 lectures (50 hrs)",
+        totalTime: "20 lectures (30 hrs)",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$2 per month",
+    priceAll: "₹1500 All Course",
+    pricePer: "₹500 per month",
   },
   {
     id: 8,
@@ -147,12 +147,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "80 lectures (200 hrs)",
+        name: "by Rahul",
+        totalTime: "20 lectures (20 hrs)",
       },
     ],
-    priceAll: "$200 All Course",
-    pricePer: "$40 per month",
+    priceAll: "₹1200 All Course",
+    pricePer: "₹300 per month",
   },
   {
     id: 9,
@@ -161,12 +161,12 @@ export const coursesCard = [
     courTeacher: [
       {
         dcover: "./images/back.webp",
-        name: "by Petter",
-        totalTime: "50 lectures (50 hrs)",
+        name: "by Pravin",
+        totalTime: "30 lectures (45 hrs)",
       },
     ],
-    priceAll: "$20 All Course",
-    pricePer: "$3 per month",
+    priceAll: "₹2000 All Course",
+    pricePer: "₹4000 per month",
   },
 ]
 export const online = [
@@ -204,7 +204,7 @@ export const online = [
     cover: "./images/courses/online/o6.png",
     hoverCover: "./images/courses/online/o6.1.png",
     courseName: "Information Software",
-    course: "60 Courses",
+    course: "16 Courses",
   },
   {
     cover: "./images/courses/online/o7.png",
@@ -222,13 +222,13 @@ export const online = [
     cover: "./images/courses/online/o9.png",
     hoverCover: "./images/courses/online/o9.1.png",
     courseName: "Graphic Design",
-    course: "80 Courses",
+    course: "30 Courses",
   },
   {
     cover: "./images/courses/online/o10.png",
     hoverCover: "./images/courses/online/o10.1.png",
     courseName: "Music",
-    course: "120 Courses",
+    course: "20 Courses",
   },
   {
     cover: "./images/courses/online/o11.png",
@@ -246,65 +246,65 @@ export const online = [
 export const team = [
   {
     cover: "./images/team/t1.webp",
-    name: "Ph.D Adrian Molises",
+    name: "Ph.D Osman",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t2.webp",
-    name: "Ph.D Arthur MaGregor",
+    name: "Ph.D Himanshu",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t3.webp",
-    name: "Ph.D Anna Hanzen",
+    name: "Ph.D Gaurav",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t4.webp",
-    name: "Ph.D Brian Wooden",
+    name: "Ph.D Rohit",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t5.webp",
-    name: "Ph.D Adrian Molises",
+    name: "Ph.D Rahul",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t6.webp",
-    name: "Ph.D Arthur MaGregor",
+    name: "Ph.D Pravin",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t7.webp",
-    name: "Ph.D Anna Hanzen",
+    name: "Ph.D Prakash",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
   {
     cover: "./images/team/t8.webp",
-    name: "Ph.D Brian Wooden",
+    name: "Ph.D Rajesh",
     work: "DEVELOPER AND LEAD INSTRUCTOR",
   },
 ]
 export const price = [
   {
     name: "BASIC PLAN",
-    price: "49K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "4500",
+    desc: "Tech gives the quietest student a voice.",
   },
   {
     name: "BEGINNER PLAN",
-    price: "79K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "5500",
+    desc: "Tech gives the quietest student a voice.",
   },
   {
     name: "PREMIUM PLAN",
-    price: "109k",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "6500",
+    desc: "Tech gives the quietest student a voice.",
   },
   {
     name: "ULTIMATE PLAN",
-    price: "149K",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    price: "7500",
+    desc: "Tech gives the quietest student a voice.",
   },
 ]
 export const faq = [
@@ -340,7 +340,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The great aim of education is not knowledge, but action.",
     cover: "../images/blog/b1.webp",
   },
   {
@@ -349,7 +349,7 @@ export const blog = [
     date: "API. 25, 2022",
     com: "5 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The great aim of education is not knowledge, but action.",
     cover: "../images/blog/b2.webp",
   },
   {
@@ -358,7 +358,7 @@ export const blog = [
     date: "MAY. 15, 2022",
     com: "10 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The great aim of education is not knowledge, but action.",
     cover: "../images/blog/b3.webp",
   },
   {
@@ -367,7 +367,7 @@ export const blog = [
     date: "JAN. 02, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The great aim of education is not knowledge, but action.",
     cover: "../images/blog/b4.webp",
   },
   {
@@ -376,7 +376,7 @@ export const blog = [
     date: "DEC. 14, 2022",
     com: "3 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The great aim of education is not knowledge, but action.",
     cover: "../images/blog/b5.webp",
   },
   {
@@ -385,7 +385,7 @@ export const blog = [
     date: "JAN. 18, 2021",
     com: "12 COMMENTS ",
     title: "Build your Dream Software & Engineering Career",
-    desc: "A small river named Duden flows by their place and supplies it with the necessary regelialia.",
+    desc: "The great aim of education is not knowledge, but action.",
     cover: "../images/blog/b6.webp",
   },
 ]
@@ -394,21 +394,21 @@ export const testimonal = [
     id: 1,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Tech gives the quietest student a voice.",
     cover: "./images/testo/t1.webp",
   },
   {
     id: 2,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Tech gives the quietest student a voice.",
     cover: "./images/testo/t2.webp",
   },
   {
     id: 3,
     name: "ROGER SCOTT",
     post: "MARKETING MANAGER",
-    desc: "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.",
+    desc: "Tech gives the quietest student a voice.",
     cover: "./images/testo/t3.webp",
   },
 ]

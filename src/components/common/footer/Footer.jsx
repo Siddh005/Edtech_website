@@ -20,7 +20,7 @@ const Footer = () => {
       <footer>
         <div className='container padding'>
           <div className='box logo'>
-            <h1>ACADEMIA</h1>
+            <h1>Hero Classes</h1>
             <span>ONLINE EDUCATION & LEARNING</span>
             <p>A small river named Duden flows by their place and supplies it with the necessary regelialia.</p>
 
@@ -74,15 +74,15 @@ const Footer = () => {
             <ul>
               <li>
                 <i className='fa fa-map'></i>
-                203 Fake St. Mountain View, San Francisco, California, USA
+                D-9 , Aryapalli , Bhubaneshwar , Odisha (751024) , India 
               </li>
               <li>
                 <i className='fa fa-phone-alt'></i>
-                +2 392 3929 210
+                +91 870 9423145
               </li>
               <li>
                 <i className='fa fa-paper-plane'></i>
-                info@yourdomain.com
+                support@heroclasses.com
               </li>
             </ul>
           </div>
