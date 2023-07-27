@@ -12,7 +12,7 @@ import Home from "./components/home/Home"
 function App() {
   return (
     <>
-      <Router basename="/">
+      <Router >
         <Header />
         <Switch basename="/">
           <Route exact path='/' component={Home} />
